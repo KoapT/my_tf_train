@@ -1,0 +1,80 @@
+item {
+  id: 1
+  name: 'instrument'
+}
+item {
+  id: 2
+  name: 'digit'
+}
+item {
+  id: 3
+  name: 'indicatorO'
+}
+item {
+  id: 4
+  name: 'indicatorC'
+}
+item {
+  id: 5
+  name: 'indicatorO2'
+}
+item {
+  id: 6
+  name: 'indicatorC2'
+}
+item {
+  id: 7
+  name: 'mixerO'
+}
+item {
+  id: 8
+  name: 'mixerC'
+}
+item {
+  id: 9
+  name: 'breakerC'
+}
+item {
+  id: 10
+  name: 'breakerO'
+}
+item {
+  id: 11
+  name: 'reserved1'
+}
+item {
+  id: 12
+  name: 'mixerC2'
+}
+item {
+  id: 13
+  name: 'mixerO2'
+}
+item {
+  id: 14
+  name: 'mois'
+}
+item {
+  id: 15
+  name: 'moisMet'
+}
+item {
+  id: 16
+  name: 'reserved6'
+}
+item {
+  id: 17
+  name: 'reserved7'
+}
+item {
+  id: 18
+  name: 'reserved8'
+}
+item {
+  id: 19
+  name: 'reserved9'
+}
+item {
+  id: 20
+  name: 'reserved10'
+}

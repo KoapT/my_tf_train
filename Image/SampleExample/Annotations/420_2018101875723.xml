@@ -1,0 +1,26 @@
+<annotation>
+	<folder>instrument_digit_indicatorO_indicatorC</folder>
+	<filename>420_2018101875723.JPG</filename>
+	<path>/home/rick/ImageRecognition/数据集_标注/TransformerSubstation/instrument_digit_indicatorO_indicatorC/420_2018101875723.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>instrument</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>668</ymin>
+			<xmax>349</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+</annotation>
